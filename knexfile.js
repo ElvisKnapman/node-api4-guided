@@ -9,7 +9,7 @@ module.exports = {
       client: "sqlite3",
       useNullAsDefault: true,
       connection: {
-        filename: "./data/shouts/db3"
+        filename: "./data/shouts.db3"
       }
     },
     pool: {
